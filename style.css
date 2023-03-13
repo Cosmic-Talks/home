@@ -526,6 +526,13 @@ footer .social #ins:hover{
     background-color: #669bbc;
     width: max-content;
 }
+#enter{
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    background-color: #410093;
+    width: max-content;
+}
 @media (max-width:1050px){
     .content{
         flex-direction: column;
