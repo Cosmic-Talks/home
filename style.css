@@ -533,6 +533,13 @@ footer .social #ins:hover{
     background-color: #410093;
     width: max-content;
 }
+#travel{
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    background-color: #15616d;
+    width: max-content;
+}
 @media (max-width:1050px){
     .content{
         flex-direction: column;
